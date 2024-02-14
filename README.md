@@ -6,5 +6,5 @@ I am a CFA charterholder and my professional experience is in financial services
 
 My latest project utilizes scenario based qualitative stress testing to identify US coastal census tracts expected to adversely impacted by sea level rise in the medium (2050) and long term (2100). You can see a snippet of it below and explore more details [here](https://prarid.github.io/SeaLevelRiseImpact_CoastalRealEstate/). I hope you will find it interesting!
 
-<img src="https://github.com/prarid/SeaLevelRiseImpact_CoastalRealEstate/blob/main/Figures/US_current_vs_emerging_risks.png">
+<img src="https://github.com/prarid/SeaLevelRiseImpact_CoastalRealEstate/blob/main/Output/Figures/US_current_vs_emerging_risks.png">
 
