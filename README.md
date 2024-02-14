@@ -1,4 +1,4 @@
-Hi there, I'm Riddhisha. 👋
+Hello! I'm Riddhisha. 👋
 
 I am a Masters student in the Applied Data Science program at the University of Michigan. My github is primarily an attempt to hone my AIML related skills. 
 
