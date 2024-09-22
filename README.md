@@ -8,4 +8,4 @@ My latest project utilizes scenario based qualitative stress testing to identify
 
 <img src="https://github.com/prarid/SeaLevelRiseImpact_CoastalRealEstate/blob/main/Output/Figures/US_current_vs_emerging_risks.png">
 
-I am currently working on gaining experience with text based machine learning; you can find some of my projects in progress projects on sentiment analysis and topic modeling [here](https://github.com/prarid/Product_Reviews_Feedback_Extraction/tree/main) and [here](https://github.com/prarid/SocialMediaAnalytics).
+I am currently working on gaining experience with text based machine learning; you can find some of my projects on sentiment analysis and topic modeling [here](https://github.com/prarid/Product_Reviews_Feedback_Extraction/tree/main) and [here](https://github.com/prarid/SocialMediaAnalytics).
