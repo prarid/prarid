@@ -6,6 +6,6 @@ My latest project utilizes scenario based qualitative stress testing to identify
 
 <img src="https://github.com/prarid/SeaLevelRiseImpact_CoastalRealEstate/blob/main/Output/Figures/US_current_vs_emerging_risks.png">
 
-I am currently working on gaining experience with text based machine learning; you can find some of my projects on sentiment analysis and topic modeling [here](https://github.com/prarid/Product_Reviews_Feedback_Extraction/tree/main) and [here](https://github.com/prarid/SocialMediaAnalytics).
+I am also a CFA charterholder and have extensive experience in financial services predominately for credit portfolios. Currently, I am an Executive Director at Morgan Stanley and serve as the Global Program Manager for Generative AI (OpenAI GPT, Copilot, etc.) adoption in financial risk modeling. My prior experience is with Ernst&Young (EY) where I worked in financial risk model governance and large scale regulatory change roll-outs (DoddFrank, CCAR, CECL, FRTB). Please check out my [LinkedIn profile](https://www.linkedin.com/in/riddhishaprabhu/) for more on my professional experience.
 
-I am also a CFA charterholder and have extensive experience in financial services predominately for credit portfolios. Currently, I am an Executive Director at Morgan Stanley and serve as the Global Program Manager for Generative AI (GPT4/Copilot) adoption in financial risk modeling. My prior experience is in model governance and large scale regulatory change roll-outs (CCAR, CECL, FRTB). Please check out my [LinkedIn profile](https://www.linkedin.com/in/riddhishaprabhu/) for more on my professional experience.
+I would love to connect with you to discuss ideas in the GenAI/AIML space! Please reach out to me via LinkedIn.
